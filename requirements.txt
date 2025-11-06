@@ -1,0 +1,9 @@
+geopandas
+gerrychain
+networkx
+requests
+pandas
+matplotlib
+shapely
+fiona
+folium
